@@ -1,4 +1,6 @@
-![LOGO](https://github.com/Balaji-Raghavendran/JAVASCRIPT/blob/main/Readme%20Banner/java_script.png?raw=true)
+<center>
+    <img src="https://github.com/Balaji-Raghavendran/JAVASCRIPT/blob/main/Readme%20Banner/JavaScript-logo.png?raw=true" width="300" height="300">
+</center>
 
 
 
