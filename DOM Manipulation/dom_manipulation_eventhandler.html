@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EventHandler</title>
+    </head>
+
+    <body>
+        <input id="num1">
+        <input id="num2">
+        <button onclick="resultfunction()">ADD</button>
+        <p id ="Result">Result</p>
+
+        <script>
+
+            var box1 = document.getElementById("num1")
+            var box2 = document.getElementById("num2")
+            var result = document.getElementById("Result")
+
+           
+
+            function resultfunction()
+            {
+                var box1value = Number(box1.value)
+                var box2value = Number(box2.value)
+                var total = box1value+box2value
+                result.textContent=total
+            }
+            
+            console.log(total)
+
+        </script>
+
+
+    </body>
+</html>
