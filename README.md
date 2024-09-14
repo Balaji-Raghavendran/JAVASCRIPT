@@ -7,7 +7,7 @@
 
 
 ## JAVASCRIPT
-Welcome to my JavaScript code area. Here you can find various code about JavaScript from basic level to web development code. You are able to get access of my code and use it for your educational purpose and your project works. If you find any errors in my code you are most welcome to correct the mistakes in my code. Finally you can share your JavaScript project ideas with me and can collaborate together. Let's code together.
+Welcome to my JavaScript code area. Here, you can find various JavaScript code, ranging from basic to web development. You are welcome to access my code and use it for educational purposes or project work. If you find any errors in my code, feel free to correct them. Finally, you can share your JavaScript project ideas with me, and we can collaborate. Let's code together!
 
 
 ## Getting Started
